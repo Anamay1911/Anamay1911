@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Anamay1911
-- 👀 I’m interested in Python
+- 👀 I’m interested in Python,SQL,ML.
 - 🌱 I’m currently persuing B.tech. from KIIT Bhubaneshwar
 - 💞️ I’m looking to collaborate on ...
 - 📫 Email Id- anamayrs@gmail.com
